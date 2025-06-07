@@ -1,1 +1,1 @@
-# ReactNativeAuth
+# RNAuthentication
